@@ -1,4 +1,4 @@
--👋 Hi, I'm @reddeath1!
+-👋 Hi, I'm @reddeath!
 
 👀 I'm interested in:
 * Artificial intelligence
