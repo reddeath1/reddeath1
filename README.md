@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @reddeath1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-👋 Hi, I'm @reddeath1!
 
-<!---
-reddeath1/reddeath1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I'm interested in:
+* Artificial intelligence
+* Machine learning
+* Data science
+* Computer vision
+* Natural language processing
+
+🌱 I'm currently learning:
+* TensorFlow
+* PyTorch
+* Scikit-learn
+* Keras
+* OpenCV
+
+💞️ I'm looking to collaborate on:
+* Open-source projects
+* Research papers
+* Hackathons
+
+📫 How to reach me:
+* Email: frankgalos@hotmail.com
+* LinkedIn: https://www.linkedin.com/in/frankgalos
+* Twitter: https://twitter.com/gold_laugh
