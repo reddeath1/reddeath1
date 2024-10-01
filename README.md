@@ -1,8 +1,8 @@
 -👋 Hi, I'm @reddeath!
 
-```md
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reddeath1&theme=dark&show_icons=true)
-```
+
 
 👀 I'm interested in:
 * Artificial intelligence
